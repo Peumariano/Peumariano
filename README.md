@@ -1,4 +1,4 @@
-### Hi there 👋
+### Desenvolvedor Front-End com experiência em HTML, CSS, JavaScript e SQL, além de conhecimentos em Git. Busco oportunidades para aprimorar minhas habilidades em projetos desafiadores e inovadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Uninter para aprimorar meus conhecimentos em programação e aperfeiçoar minhas habilidades técnicas.
 
 <!--
 **Peumariano/Peumariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
