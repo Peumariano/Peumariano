@@ -36,8 +36,8 @@ Sou desenvolvedor de software apaixonado por construir soluções eficientes e e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peumariano&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peumariano&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Peumariano&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Peumariano&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
